@@ -11,6 +11,8 @@ MOSFET	mosfet
 Qsys	qsys
 accelerometer	accelerometer
 gyroscope	gyroscope
+for your reference	fyr
+FYR	fyr
 
 # 軟體類
 verilog	verilog
@@ -29,6 +31,8 @@ MATLAB	matlab
 PChome	pchome
 mouser	mouser
 JLCPCB	jlcpcb
+AnyDesk	AnyDesk
+
 
 # 學術專有名詞
 Robot Operating System	robotoperatingsystem
