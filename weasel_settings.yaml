@@ -1,0 +1,46 @@
+# weasel.yaml 支持的所有选项及注释，用于配置参考
+# 感谢 @[Mirtle](https://github.com/mirtlecn) 整理
+# 定制化文档 https://github.com/rime/weasel/wiki/Weasel-定製化
+
+# 在用户使用「输入法设定」调整设置时，小狼毫会格式化 weasel.custom.yaml，删除所有注释。
+# 目前建议的自定义方法：复制此本文件并修改，之后在 weasel.custom.yaml 用 `__include` 引入。示例 weasel.custom.yaml 如下：
+# patch:
+#   "preset_color_schemes/+":
+#     __include: "weasel_style_copy:/preset_color_schemes"
+#   "style/+":
+#     __include: "weasel_style_copy:/style"
+
+
+# 全部 style 选项
+# refer：<https://github.com/rime/weasel/blob/master/RimeWithWeasel/RimeWithWeasel.cpp>
+# Update at：2023.08.20
+# Weasel 版本：15.0, CI #137 <https://github.com/rime/weasel/actions/runs/5912109600>
+# Commit: db79168
+
+# 以下是一个示例方案
+# 使用方法：在 weasel.custom.yaml 中添加如下两行：
+# patch:
+#   "style/+":
+#     __include: "weasel_settings:/style"
+#   "preset_color_schemes/+":
+#     __include: "weasel_settings:/preset_color_schemes"
+
+style:
+  color_scheme: dark_temple_copy
+  display_tray_icon: false
+  horizontal: false
+  inline_preedit: false
+
+preset_color_schemes:
+  dark_temple_copy:
+    author: "佛振 <chen.sst@gmail.com>, based on ir_black"
+    back_color: 0x222222
+    border_color: 0x222222
+    candidate_text_color: 0xd8e3e6
+    comment_text_color: 0x606cff
+    hilited_back_color: 0x222222
+    hilited_candidate_back_color: 0x333333
+    hilited_candidate_text_color: 0x92f6da
+    hilited_text_color: 0xffcf9a
+    name: "暗堂／Dark Temple Copy"
+    text_color: 0x92f6da

@@ -1,0 +1,30 @@
+= Used Steps
+:experimental:
+:toc: left
+
+== Add my own settings
+1. Create a weasel.custom.yaml
+2. Open *weasel.custom.yaml* add the following snippets
+
+[source, yaml]
+----
+patch:
+    "style/+":
+        __include: "weasel_settings:/style"
+    "preset_color_schemes/+":
+        __include: "weasel_settings:/preset_color_schemes"
+----
+
+== Add backup settings
+
+1. run redeploy
+2. Open *installation.yaml* add the following snippets
+    - <sync_dir_path>: change to your own path
+
+[source, yaml]
+----
+sync_dir: '<sync_dir_path>'
+
+# example
+sync_dir: 'E:\RimeSync'
+----

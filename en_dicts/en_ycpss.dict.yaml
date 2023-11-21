@@ -1,0 +1,40 @@
+---
+name: en_ycpss
+version: "2023-11-08"
+sort: by_weight
+...
+# 常用詞
+SW	sw
+heatmap	heatmap
+QRCode	qrcode
+MOSFET	mosfet
+Qsys	qsys
+accelerometer	accelerometer
+gyroscope	gyroscope
+
+# 軟體類
+verilog	verilog
+draw.io	drawio
+quartus	quartus
+nios	nios
+Altium Designer	altium
+Arduino	arduino
+OpenCV	opencv
+OpenCR	opencr
+tmux	tmux
+MATLAB	matlab
+
+
+# 廠商專有名詞
+PChome	pchome
+mouser	mouser
+JLCPCB	jlcpcb
+
+# 學術專有名詞
+Robot Operating System	robotoperatingsystem
+Robot Operating System	ROS
+ROS	ROS
+Simultaneous Localization and Mapping	simultaneouslocalizationandmapping
+Simultaneous Localization and Mapping	slam
+SLAM	slam
+Altium Designer	altiumdesigner

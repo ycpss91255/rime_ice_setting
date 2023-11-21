@@ -1,0 +1,94 @@
+---
+name: ycpss
+version: "2023-11-08"
+sort: by_weight
+...
+
+# 常用詞
+繳交	jiao jiao	1
+垃圾	le se	1
+沒差	mei cha	1
+滑鼠	hua shu	1
+鮑率	bao lv	1
+河魨	he tun	1
+燒腦	shao nao	1
+校正	jiao zhong	1
+子題	zi ti	1
+麵線	mian xian	1
+代理器	dai li qi	1
+永遠的神	yong yuan de shen	1
+基隆	ji long	1
+計畫	ji hua	1
+避障	bi zhang	1
+列印	lie yn	1
+才是	cai shi	1
+細項	xi xiang	1
+函式	han shi	1
+相差無異	xiang cha wu yi	1
+地吸引力	di xi yin li	1
+
+# 專有名詞
+稽納二極體	ji na er ji ti	1
+機器人操作系統	ros	1
+同時定位與地圖構建	slam	1
+
+# 注音
+# ㄅ	b
+# ㄆ	p
+# ㄇ	m
+# ㄈ	f
+# ㄉ	d
+# ㄊ	t
+# ㄋ	n
+# ㄌ	l
+# ㄍ	g
+# ㄎ	k
+# ㄏ	h
+# ㄐ	j
+# ㄑ	q
+# ㄒ	x
+# ㄓ	zhi
+# ㄔ	chi
+# ㄕ	shi
+# ㄖ	ri
+# ㄗ	zi
+# ㄘ	ci
+# ㄙ	si
+# ㄚ	a
+# ㄛ	o
+# ㄜ	e
+# ㄝ	e
+# ㄞ	ai
+# ㄟ	ei
+# ㄠ	ao
+# ㄡ	ou
+# ㄢ	an
+# ㄣ	en
+# ㄤ	ang
+# ㄥ	eng
+# ㄦ	er
+# ㄧ	yi
+# ㄧㄚ	ya
+# ㄧㄛ	yo
+# ㄧㄝ	ye
+# ㄧㄞ	yai
+# ㄧㄠ	yao
+# ㄧㄡ	you
+# ㄧㄢ	yan
+# ㄧㄣ	yin
+# ㄧㄤ	yang
+# ㄧㄥ	ying
+# ㄨ	wu
+# ㄨㄚ	wa
+# ㄨㄛ	wo
+# ㄨㄞ	wai
+# ㄨㄟ	wei
+# ㄨㄢ	wan
+# ㄨㄣ	wen
+# ㄨㄤ	wang
+# ㄨㄥ	weng
+# ㄩ	yu
+# ㄩㄝ	yue
+# ㄩㄢ	yuan
+# ㄩㄣ	yun
+# ㄩㄥ	yong
