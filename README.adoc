@@ -15,16 +15,16 @@ patch:
         __include: "weasel_settings:/preset_color_schemes"
 ----
 
-== Add backup settings
+// == Add backup settings
 
-1. run redeploy
-2. Open *installation.yaml* add the following snippets
-    - <sync_dir_path>: change to your own path
+// 1. run redeploy
+// 2. Open *installation.yaml* add the following snippets
+//     - <sync_dir_path>: change to your own path
 
-[source, yaml]
-----
-sync_dir: '<sync_dir_path>'
+// [source, yaml]
+// ----
+// sync_dir: '<sync_dir_path>'
 
-# example
-sync_dir: 'E:\RimeSync'
-----
+// # example
+// sync_dir: 'E:\RimeSync'
+// ----
