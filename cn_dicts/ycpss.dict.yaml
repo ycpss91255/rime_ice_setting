@@ -5,32 +5,34 @@ sort: by_weight
 ...
 
 # 常用詞
-繳交	jiao jiao	1
+缴交	jiao jiao	1
 垃圾	le se	1
-沒差	mei cha	1
+没差	mei cha	1
 滑鼠	hua shu	1
-鮑率	bao lv	1
-河魨	he tun	1
-燒腦	shao nao	1
+鲍率	bao lv	1
+河鲀	he tun	1
+烧脑	shao nao	1
 校正	jiao zhong	1
-子題	zi ti	1
-麵線	mian xian	1
+子题	zi ti	1
+# 麵線	mian xian	1
+面线	mian xian	1
 代理器	dai li qi	1
-永遠的神	yong yuan de shen	1
+永远的神	yong yuan de shen	1
 基隆	ji long	1
-計畫	ji hua	1
+计画	ji hua	1
 避障	bi zhang	1
 列印	lie yn	1
 才是	cai shi	1
-細項	xi xiang	1
+细项	xi xiang	1
 函式	han shi	1
-相差無異	xiang cha wu yi	1
+相差无异	xiang cha wu yi	1
 地吸引力	di xi yin li	1
 
 # 專有名詞
-稽納二極體	ji na er ji ti	1
-機器人操作系統	ros	1
-同時定位與地圖構建	slam	1
+稽纳二极体	ji na er ji ti	1
+机器人操作系统	ros	1
+同时定位与地图建置	slam	1
+同时定位与地图构建	slam	1
 
 # 注音
 # ㄅ	b

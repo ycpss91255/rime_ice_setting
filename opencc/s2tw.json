@@ -23,5 +23,10 @@
       "type": "text",
       "file": "TWVariants.txt"
     }
+  }, {
+    "dict": {
+      "type": "text",
+      "file": "TWVariants_custom.txt"
+    }
   }]
 }
