@@ -212,6 +212,7 @@
 
 go	go
 go go	gogo
+me too	metoo
 Golang	golang
 Hugo	hugo
 goto	goto
