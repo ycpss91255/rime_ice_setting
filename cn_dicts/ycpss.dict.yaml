@@ -6,6 +6,7 @@ sort: by_weight
 
 # 常用詞
 缴交	jiao jiao	1
+母湯	mu tang	1
 垃圾	le se	1
 没差	mei cha	1
 滑鼠	hua shu	1
@@ -26,70 +27,27 @@ sort: by_weight
 相差无异	xiang cha wu yi	1
 地吸引力	di xi yin li	1
 置中	zhi zhong	1
+涉略	she lue	1
+縮排	suo pai	1
+偵錯	zhen cuo	1
+螢幕	ying mu	1
+內用	nei yong	1
+關卡	guan ka	1
+
+# 店家
+麥味登	mai wei deng	1
 
 # 專有名詞
 稽纳二极体	ji na er ji ti	1
 机器人操作系统	ros	1
+机器人操作系统	robotoperatingsystem	1
 同时定位与地图建置	slam	1
+同时定位与地图建置	simultaneouslocalizationandmapping	1
 同时定位与地图构建	slam	1
-
-# 注音
-# ㄅ	b
-# ㄆ	p
-# ㄇ	m
-# ㄈ	f
-# ㄉ	d
-# ㄊ	t
-# ㄋ	n
-# ㄌ	l
-# ㄍ	g
-# ㄎ	k
-# ㄏ	h
-# ㄐ	j
-# ㄑ	q
-# ㄒ	x
-# ㄓ	zhi
-# ㄔ	chi
-# ㄕ	shi
-# ㄖ	ri
-# ㄗ	zi
-# ㄘ	ci
-# ㄙ	si
-# ㄚ	a
-# ㄛ	o
-# ㄜ	e
-# ㄝ	e
-# ㄞ	ai
-# ㄟ	ei
-# ㄠ	ao
-# ㄡ	ou
-# ㄢ	an
-# ㄣ	en
-# ㄤ	ang
-# ㄥ	eng
-# ㄦ	er
-# ㄧ	yi
-# ㄧㄚ	ya
-# ㄧㄛ	yo
-# ㄧㄝ	ye
-# ㄧㄞ	yai
-# ㄧㄠ	yao
-# ㄧㄡ	you
-# ㄧㄢ	yan
-# ㄧㄣ	yin
-# ㄧㄤ	yang
-# ㄧㄥ	ying
-# ㄨ	wu
-# ㄨㄚ	wa
-# ㄨㄛ	wo
-# ㄨㄞ	wai
-# ㄨㄟ	wei
-# ㄨㄢ	wan
-# ㄨㄣ	wen
-# ㄨㄤ	wang
-# ㄨㄥ	weng
-# ㄩ	yu
-# ㄩㄝ	yue
-# ㄩㄢ	yuan
-# ㄩㄣ	yun
-# ㄩㄥ	yong
+同时定位与地图构建	simultaneouslocalizationandmapping	1
+数位孪生  digital twin	1
+数位孪生	dt	1
+混合数位孪生	hybrid digital twin	1
+混合数位孪生	hdt	1
+慣性測量單元	inertialmeasurementunit	1
+慣性測量單元	imu	1

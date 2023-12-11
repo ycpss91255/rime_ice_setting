@@ -5,7 +5,9 @@ sort: by_weight
 ...
 # 常用詞
 SW	sw
+ping	ping
 heatmap	heatmap
+keymap	keymap
 QRCode	qrcode
 MOSFET	mosfet
 Qsys	qsys
@@ -13,6 +15,8 @@ accelerometer	accelerometer
 gyroscope	gyroscope
 for your reference	fyr
 FYR	fyr
+State-of-the-art stateoftheart
+State-of-the-art sota
 
 # 軟體類
 verilog	verilog
@@ -25,20 +29,45 @@ OpenCV	opencv
 OpenCR	opencr
 tmux	tmux
 MATLAB	matlab
-
-
-# 廠商專有名詞
+AsciiDoc	asciidoc
+asciidoc	asciidoc
+CUDA	cuda
+CUDA Deep Neural Network	cudadeepneuralnetwork
+CUDA Deep Neural Network	cudnn
+cuDNN	cudnn
+PyTorch	pytorch
+pip	pip
+proxmox	proxmox
+proxmox	pve
+Raspberry Pi	raspberrypi
+Raspberry Pi	rpi
+RPi	rpi
+armhf	armhf
+Ventoy	Ventoy
 PChome	pchome
 mouser	mouser
 JLCPCB	jlcpcb
 AnyDesk	AnyDesk
-
+SolidWorks	sw
+SolidWorks	solidworks
+Altium Designer	ad
+Altium Designer	altiumdesigner
+XD	xd
+amiibo	amiibo
+CoppeliaSim	coppeliasim
+Gazebo	gazebo
+Inertial Measurement Unit	inertialmeasurementunit
+Inertial Measurement Unit	imu
+IMU	imu
 
 # 學術專有名詞
 Robot Operating System	robotoperatingsystem
-Robot Operating System	ROS
-ROS	ROS
+Robot Operating System	ros
+ROS	ros
 Simultaneous Localization and Mapping	simultaneouslocalizationandmapping
 Simultaneous Localization and Mapping	slam
 SLAM	slam
-Altium Designer	altiumdesigner
+Digital Twin	digitaltwin
+Digital Twin	dt
+Hybrid Digital Twin	hybrid digital twin
+Hybrid Digital Twin	hdt
