@@ -2,6 +2,8 @@
 :experimental:
 :toc: left
 
+My chinese input method limit Chinese words and Taiwanese words (excluding Hong Kong words)
+
 == Add my own settings
 1. Create a weasel.custom.yaml
 2. Open *weasel.custom.yaml* add the following snippets
@@ -15,9 +17,11 @@ patch:
         __include: "weasel_settings:/preset_color_schemes"
 ----
 
+// TODO: todo list
 == TODO list
-* [ ] marge emoji
-
+* [ ] merge STPhrases.txt and TWPhrases.txt
+* [ ] merge emoji, symbol and punctuator
+* [ ] expansion corrector.lua
 // == Add backup settings
 
 // 1. run redeploy
