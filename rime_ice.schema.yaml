@@ -26,13 +26,13 @@ switches:
     reset: 1
     states: [ 简, 繁 ]
   - name: emoji
-    reset: 1
+    reset: 0
     states: [ 💀, 😄 ]
   - name: emoji_suggestion
-    reset: 1
+    reset: 0
     states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
   - name: symbol_support
-    reset: 1
+    reset: 0
     states: [ "无符", "符" ]
   - name: ascii_punct # 中英标点
     reset: 0
