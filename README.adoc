@@ -15,6 +15,9 @@ patch:
         __include: "weasel_settings:/preset_color_schemes"
 ----
 
+== TODO list
+* [ ] marge emoji
+
 // == Add backup settings
 
 // 1. run redeploy
