@@ -33,21 +33,30 @@ sort: by_weight
 螢幕	ying mu	1
 內用	nei yong	1
 關卡	guan ka	1
+啥小  shao xiao	1
+
 
 # 店家
 麥味登	mai wei deng	1
 
 # 專有名詞
 稽纳二极体	ji na er ji ti	1
+
+# 縮寫
 机器人操作系统	ros	1
-机器人操作系统	robotoperatingsystem	1
 同时定位与地图建置	slam	1
-同时定位与地图建置	simultaneouslocalizationandmapping	1
 同时定位与地图构建	slam	1
-同时定位与地图构建	simultaneouslocalizationandmapping	1
 数位孪生  digital twin	1
 数位孪生	dt	1
-混合数位孪生	hybrid digital twin	1
-混合数位孪生	hdt	1
-慣性測量單元	inertialmeasurementunit	1
-慣性測量單元	imu	1
+光学雷达	lidar	1
+惯性量测单元	imu	1
+自主式移动机器人	amr	1
+自动引导车	agv	1
+物联网 	iot	1
+人工智慧	ai	1
+扩增实境	ar	1
+虚拟实境	vr	1
+混合实境	mr	1
+金钥管理伺服器	kms	1
+遗传演算法	ga	1
+轮式移动机器人	wmr	1

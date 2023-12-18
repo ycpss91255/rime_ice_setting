@@ -17,6 +17,9 @@ for your reference	fyr
 FYR	fyr
 State-of-the-art stateoftheart
 State-of-the-art sota
+XD	xd
+OP	op
+po	po
 
 # 軟體類
 verilog	verilog
@@ -52,22 +55,59 @@ SolidWorks	sw
 SolidWorks	solidworks
 Altium Designer	ad
 Altium Designer	altiumdesigner
-XD	xd
 amiibo	amiibo
 CoppeliaSim	coppeliasim
 Gazebo	gazebo
-Inertial Measurement Unit	inertialmeasurementunit
-Inertial Measurement Unit	imu
-IMU	imu
+PowerToys	powertoys
+Visio	Visio
 
-# 學術專有名詞
+# 專有名詞
 Robot Operating System	robotoperatingsystem
-Robot Operating System	ros
-ROS	ros
 Simultaneous Localization and Mapping	simultaneouslocalizationandmapping
-Simultaneous Localization and Mapping	slam
-SLAM	slam
 Digital Twin	digitaltwin
+LiDAR	lidar
+Inertial Measurement Unit	inertialmeasurementunit
+Autonomous Mobile Robot	autonomousmobilerobot
+Automated Guided Vehicle	automatedguidedvehicle
+Internet of Things	internetofthings
+Artificial Intelligence	artificialintelligence
+Augmented Reality	augmentedreality
+Virtual Reality	virtualreality
+Mixed Reality	mixedreality
+Key Management Server	keymanagementserver
+OBS Studio	obsstudio
+Genetic Algorithm	geneticalgorithm
+Wheeled Mobile Robot	wheeledmobilerobot
+
+# 全名對縮寫
+Robot Operating System	ros
+Simultaneous Localization and Mapping	slam
 Digital Twin	dt
-Hybrid Digital Twin	hybrid digital twin
-Hybrid Digital Twin	hdt
+Inertial Measurement Unit	imu
+Autonomous Mobile Robot	amr
+Automated Guided Vehicle	agv
+Internet of Things	iot
+Artificial Intelligence	ai
+Augmented Reality	ar
+Virtual Reality	vr
+Mixed Reality	mr
+Key Management Server	kms
+OBS Studio	obs
+Wheeled Mobile Robot	wmr
+
+# 縮寫對縮寫
+ROS	ros
+SLAM	slam
+DT	dt
+IMU	imu
+AMR	amr
+AGV	agv
+IoT	iot
+AI	ai
+AR	ar
+VR	vr
+MR	mr
+KMS	kms
+OBS	obs
+GA	ga
+WMR	wmr
