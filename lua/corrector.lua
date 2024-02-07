@@ -5,12 +5,14 @@
 
 	为了让这个 Lua 同时适配全拼与双拼，使用 `spelling_hints` 生成的 comment（全拼拼音）作为通用的判断条件。
 	感谢大佬@[Shewer Lu](https://github.com/shewer)提供的思路。
-	
+
 	容错词在 cn_dicts/others.dict.yaml 中，有新增建议可以提个 issue
 --]]
 
 local corrections = {
 	-- 错音
+	["gen duo"] = { text = "更多", comment = "geng duo" },
+	["jing xing"] = { text = "進行", comment = "jin xing" },
 	["hun dun"] = { text = "馄饨", comment = "hun tun" },
 	["zhu jiao"] = { text = "主角", comment = "zhu jue" },
 	["jiao se"] = { text = "角色", comment = "jue se" },

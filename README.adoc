@@ -22,6 +22,9 @@ patch:
 * [ ] merge STPhrases.txt and TWPhrases.txt
 * [ ] merge emoji, symbol and punctuator
 * [ ] expansion corrector.lua
+* [ ] add abbreviation.lua
+** chinese and english abbreviations
+
 // == Add backup settings
 
 // 1. run redeploy

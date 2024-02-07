@@ -1,113 +1,293 @@
+# cSpell: disable
+#
+# Rime dictionary
+# encoding: utf-8
+#
+# https://github.com/iDvel/rime-ice
+# ------- 中英混输词库 for 全拼 -------
+# 由 others/cn_en.txt 自动生成
+# 编码前的 ⓘ 符号是为了防止英文方案拼写派生时派生出全大写字母（在 melt_eng.schema.yaml 中实现）
+# 示例：输入 txu 得到 T恤；输入 Txu 得到 T恤； 输入 TXU 则只会得到 TXU
 ---
 name: en_ycpss
 version: "2023-11-08"
 sort: by_weight
 ...
 # 常用詞
-SW	sw
 ping	ping
 heatmap	heatmap
 keymap	keymap
 QRCode	qrcode
 MOSFET	mosfet
-Qsys	qsys
 accelerometer	accelerometer
 gyroscope	gyroscope
-for your reference	fyr
-FYR	fyr
-State-of-the-art stateoftheart
-State-of-the-art sota
-XD	xd
-OP	op
-po	po
+Xacro	xacro
 
-# 軟體類
+# 專有名詞 (沒有縮寫)
 verilog	verilog
+Qsys	ⓘQsys
+Nios	ⓘNios
 draw.io	drawio
 quartus	quartus
-nios	nios
-Altium Designer	altium
-Arduino	arduino
+Arduino	Arduino
 OpenCV	opencv
 OpenCR	opencr
 tmux	tmux
 MATLAB	matlab
 AsciiDoc	asciidoc
 asciidoc	asciidoc
-CUDA	cuda
-CUDA Deep Neural Network	cudadeepneuralnetwork
-CUDA Deep Neural Network	cudnn
-cuDNN	cudnn
 PyTorch	pytorch
 pip	pip
-proxmox	proxmox
-proxmox	pve
-Raspberry Pi	raspberrypi
-Raspberry Pi	rpi
-RPi	rpi
 armhf	armhf
+actuator	actuator
 Ventoy	Ventoy
 PChome	pchome
 mouser	mouser
 JLCPCB	jlcpcb
 AnyDesk	AnyDesk
-SolidWorks	sw
-SolidWorks	solidworks
-Altium Designer	ad
-Altium Designer	altiumdesigner
 amiibo	amiibo
 CoppeliaSim	coppeliasim
 Gazebo	gazebo
 PowerToys	powertoys
 Visio	Visio
-
-# 專有名詞
-Robot Operating System	robotoperatingsystem
-Simultaneous Localization and Mapping	simultaneouslocalizationandmapping
-Digital Twin	digitaltwin
 LiDAR	lidar
-Inertial Measurement Unit	inertialmeasurementunit
-Autonomous Mobile Robot	autonomousmobilerobot
-Automated Guided Vehicle	automatedguidedvehicle
-Internet of Things	internetofthings
-Artificial Intelligence	artificialintelligence
-Augmented Reality	augmentedreality
-Virtual Reality	virtualreality
-Mixed Reality	mixedreality
-Key Management Server	keymanagementserver
-OBS Studio	obsstudio
-Genetic Algorithm	geneticalgorithm
-Wheeled Mobile Robot	wheeledmobilerobot
+cartographer	cartographer
+Altera	altera
+kinematics	kinematics
+kinetic	kinetic
+perdiction	perdiction
+convolutional layer	convolutionallayer
+pooling layer	poolingallayer
+fully connected layer	fullyconnectedlayer
+machine vision	machinevision
+Robot Vision	robotvision
+R-square	rsquare
+PID	pid
+sigmoid	sigmoid
+Odometer	odometer
+voxel	voxel
+Extrapolator	extrapolator
+netplan	netplan
+nmtui	nmtui
+sudo	sudo
+OpenCR	opencr
+RViz	rviz
+rqt	rqt
+catkin	catkin
+teleop	teleop
+teleoperation	teleoperation
+distro	distro
+noetic	noetic
+melodic	melodic
+kinetic	kinetic
+verbose	verbose
+msg	msg
+srv	srv
+talker	talker
+Dockerfile	Dockerfile
+jetson  jetson
+mqtt	mqtt
 
-# 全名對縮寫
+# 專有名詞 (有縮寫)
+For Your Reference	foryourreference
+for your reference	fyr
+FYR	fyr
+Altium Designer	altiumdesigner
+Altium Designer	ad
+SolidWorks	solidworks
+SolidWorks	sw
+proxmox	proxmox
+proxmox	pve
+Raspberry Pi	raspberrypi
+Raspberry Pi	rpi
+RPi	rpi
+Compute Unified Device Architecture	computeunifieddevicearchitecture
+Compute Unified Device Architecture	cuda
+CUDA	cuda
+CUDA Deep Neural Network	cudadeepneuralnetwork
+CUDA Deep Neural Network	cudnn
+cuDNN	cudnn
+State-of-the-art	stateoftheart
+State-of-the-art	sota
+SOTA	sota
+Robot Operating System	robotoperatingsystem
 Robot Operating System	ros
-Simultaneous Localization and Mapping	slam
-Digital Twin	dt
-Inertial Measurement Unit	imu
-Autonomous Mobile Robot	amr
-Automated Guided Vehicle	agv
-Internet of Things	iot
-Artificial Intelligence	ai
-Augmented Reality	ar
-Virtual Reality	vr
-Mixed Reality	mr
-Key Management Server	kms
-OBS Studio	obs
-Wheeled Mobile Robot	wmr
-
-# 縮寫對縮寫
 ROS	ros
+Simultaneous Localization and Mapping	simultaneouslocalizationandmapping
+Simultaneous Localization and Mapping	slam
 SLAM	slam
+Digital Twin	digitaltwin
+Digital Twin	dt
 DT	dt
+Digital Twin System	digitaltwinsystem
+Digital Twin	dts
+DTS	dts
+Inertial Measurement Unit	inertialmeasurementunit
+Inertial Measurement Unit	imu
 IMU	imu
+Autonomous Mobile Robot	autonomousmobilerobot
+Autonomous Mobile Robot	amr
 AMR	amr
+Automated Guided Vehicle	automatedguidedvehicle
+Automated Guided Vehicle	agv
 AGV	agv
+Internet of Things	internetofthings
+Internet of Things	iot
 IoT	iot
+Artificial Intelligence	artificialintelligence
+Artificial Intelligence	ai
 AI	ai
+Augmented Reality	augmentedreality
+Augmented Reality	ar
 AR	ar
+Virtual Reality	virtualreality
+Virtual Reality	vr
 VR	vr
+Mixed Reality	mixedreality
+Mixed Reality	mr
 MR	mr
+Key Management Server	keymanagementserver
+Key Management Server	kms
 KMS	kms
+OBS Studio	obsstudio
+OBS Studio	obs
 OBS	obs
+Genetic Algorithm	geneticalgorithm
+Genetic Algorithm	ga
 GA	ga
+Wheeled Mobile Robot	wheeledmobilerobot
+Wheeled Mobile Robot	wmr
 WMR	wmr
+Product Lifecycle Management	productlifecyclemanagement
+Product Lifecycle Management	plm
+PLM	plm
+Artificial Intelligence of Things	artificialintelligenceofthings
+Artificial Intelligence of Things	aiot
+AIoT	aiot
+Omni-directional Wheel Mobile Robot 	omnidirectionalwheelmobilerobot
+Omni-directional Wheel Mobile Robot	owmr
+OWMR	owmr
+Data Distribution Service	datadistributionservice
+Data Distribution Service	dds
+DDS	dds
+Unified Robot Description Format	unifiedrobotdescriptionformat
+Unified Robot Description Format	urdf
+URDF	urdf
+Physical Wheeled Mobile Robot	physicalwheeledmobilerobot
+Physical WMR	physicalwmr
+Physical WMR	pwmr
+PWMR	pwmr
+Virtual Wheeled Mobile Robot	virtualwheeledmobilerobot
+Virtual WMR	virtualwmr
+Virtual WMR	vwmr
+VWMR	vwmr
+Mean Squared Error	meansquarederror
+Mean Squared Error	mse
+MSE	mse
+Root Mean Squared Error	rootmeansquarederror
+Root Mean Squared Error	rmse
+RMSE	rmse
+Mean Absolute Error	meanabsoluteerror
+Mean Absolute Error	mae
+MAE	mae
+Artificial Neural Network	artificialneuralnetwork
+Artificial Neural Network	ann
+ANN	ann
+Artificial Neural Network	anns
+ANNs	anns
+Neural Network	neuralnetwork
+Neural Network	nn
+NN	nn
+Deep Learning	deeplearning
+Deep Learning	dl
+DL	dl
+Deep Neural Network	deepneuralnetwork
+Deep Neural Network	dnn
+DNN	dnn
+Feed Forward Network	feedforwardnetwork
+Feed Forward Network	ffn
+FFN	ffn
+Recurrent Neural Network	recurrentnetwork
+Recurrent Neural Network	rnn
+RNN	rnn
+Convolutional Neural Network	convolutionalneuralnetwork
+Convolutional Neural Network	cnn
+CNN	cnn
+Machine Learning	machinelearning
+Machine Learning	ml
+ML	ml
+Reinforcement Learning	reinforcementlearning
+Reinforcement Learning	rl
+RL	rl
+Deep reinforcement learning	deepreinforcementlearning
+Deep reinforcement learning	drl
+DRL	drl
+Long Short-Term Menory	longshorttermmenory
+Long Short-Term Menory	lstm
+LSTM	lstm
+Forward Kinematics	forwardkinematics
+Forward Kinematics	fk
+FK	fk
+Inverse Kinematics	inversekinematics
+Inverse Kinematics	ik
+IK	ik
+Linear-Quadratic Regulator	linearquadraticregulator
+Linear-Quadratic Regulator	lqr
+LQR	lqr
+Integrated Squared Error	integratedsquarederror
+Integrated Squared Error	ise
+ISE	ise
+Multilayer Perceptron	multilayerperceptron
+Multilayer Perceptron	mlp
+MLP	mlp
+Adaptive Controllers	adaptivecontrollers
+Adaptive Controllers	ac
+AC	ac
+Human Computer Interface	humancomputerinterface
+Human Computer Interface	hci
+HCI	hci
+Human Robot Interface	humanmachineinterface
+Human Robot Interface	hri
+HRI	hri
+HyperText Markup Language	HyperTextMarkupLanguage
+HyperText Markup Language	html
+HTML	html
+Band-pass Filter	bandpassfilter
+Band-pass Filter	bpf
+BPF	bpf
+Extended Kalman filter	extendedkalmanfilter
+Extended Kalman filter	ekf
+EKF	ekf
+You Only Look Once	youonlylookonce
+You Only Look Once	yolo
+YOLO	yolo
+Single Shot MultiBox Detector	singleshotmultiboxdetector
+Single Shot MultiBox Detector	ssd
+SSD	ssd
+Relative Pose Error	relativeposeerror
+Relative Pose Error	rpe
+RPE	rpe
+Absolute Pose Error	absoluteposeerror
+Absolute Pose Error	ape
+APE	ape
+Absolute Trajectory Error	absolutetrajectoryerror
+Absolute Trajectory Error	ate
+ATE	ate
+Unscented Kalman Filter	unscentedkalmanfilter
+Unscented Kalman Filter	ukf
+UKF	ukf
+Kalman Filter	kalmanfilter
+Kalman Filter	kf
+KF	kf
+USB On-The-Go	usbonthego
+USB On-The-Go	usbotg
+USB OTG	usbotg
+turtlebot3	turtlebot
+turtlebot3	tb
+turtlebot	turtlebot
+Real-Time Operating System	realtimeroperatingsystem
+Real-Time Operating System	rtos
+RTOS	rtos
+Next Unit of Computing	nextunitofcomputing
+Next Unit of Computing	nuc
+NUC	nuc

@@ -23,7 +23,6 @@
 # 此行之后不能写注释
 
 
-噷	hm
 哼	hng
 
 
@@ -178,10 +177,10 @@
 有没有	umu
 有没有	umeiu
 又有	uu
-又又又	uuu
-又双叒叕	uuuu
 
 
+啾啾	jj
+噗噗	pp
 等等	dd
 的地得	ddd
 等等等等	dddd
@@ -193,6 +192,7 @@
 哈哈	hh
 看看	kk
 常常	cc
+謝謝	xx	3
 想想	xx	2
 想象	xx	1
 隐约	yy
@@ -213,6 +213,7 @@
 go	go
 go go	gogo
 no no	nono
+Hi Hi	hihi
 me too	metoo
 Golang	golang
 Hugo	hugo
@@ -224,5 +225,4 @@ main	main
 Amazon	amazon
 NASA	nasa
 gone	gone
-Go程	gocheng
-code	code
+Code	code

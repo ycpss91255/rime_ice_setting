@@ -1,3 +1,5 @@
+# cSpell: disable
+#
 # Rime dictionary
 # encoding: utf-8
 #
@@ -165,6 +167,8 @@ sort: by_weight
 脖颈儿	bo jing er
 结扎	jie za
 结扎	jie zha
+更多	geng duo
+更多	gen duo
 ### 错字
 曾经	ceng jing
 曾今	ceng jin
@@ -187,6 +191,8 @@ sort: by_weight
 龇着牙	ci zhe ya
 龇牙咧嘴	zi ya lie zui
 龇牙咧嘴	ci ya lie zui
+進行	jing xing
+進行	jin xing
 
 
 ##### 叠字
