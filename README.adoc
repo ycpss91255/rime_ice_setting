@@ -25,6 +25,9 @@ patch:
 * [ ] add abbreviation.lua
 ** chinese and english abbreviations
 
+
+log path C:\Users\ycpss\AppData\Local\Temp\rime
+file name is rime....
 // == Add backup settings
 
 // 1. run redeploy
