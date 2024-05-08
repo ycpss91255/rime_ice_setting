@@ -17,6 +17,7 @@ sort: by_weight
 accelerometer	accelerometer
 AdGuard	adguard
 colcon	colcon
+CMakeLists	cmakelists
 fazzy	fazzy
 gyroscope	gyroscope
 heatmap	heatmap
@@ -24,7 +25,10 @@ keymap	keymap
 MOSFET	mosfet
 ping	ping
 QRCode	qrcode
+std	std
 Xacro	xacro
+
+Inductor	induct服務r
 
 # 專有名詞 (沒有縮寫)
 actuator	actuator
@@ -89,6 +93,7 @@ verbose	verbose
 verilog	verilog
 Visio	ⓘVisio
 voxel	voxel
+Zalgo	ⓘZalgo
 
 # 專有名詞 (有縮寫)
 Absolute Pose Error	absoluteposeerror
