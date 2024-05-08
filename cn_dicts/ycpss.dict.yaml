@@ -9,6 +9,14 @@ sort: by_weight
 吋	cun	1
 
 # 常用詞
+发炉	fa lu	1
+模具	mo ju	1
+模样	mo yang	1
+有模有样	you mo you yang	1
+一模一样	yi mo yi yang	1
+装模作样	zhuang mo zuo yang	1
+人模狗样	ren mo gou yang	1
+模板	mo ban	1
 阿嬤 	a ma	1
 鲍率	bao lv	1
 避障	bi zhang	1
@@ -53,6 +61,11 @@ sort: by_weight
 子题	zi ti	1
 字型	zi xing	1
 
+药炖排骨	yao dun pai gu	1
+优酪乳	you luo ru	1
+混淆	hun yao	1
+支言支语	zhi yan zhi yu	1
+說服	shui fu	1
 
 # 专有名词 (沒有縮寫)
 布林	bo lin	1
