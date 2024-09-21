@@ -17,10 +17,10 @@ sort: by_weight
 装模作样	zhuang mo zuo yang	1
 人模狗样	ren mo gou yang	1
 模板	mo ban	1
-阿嬤 	a ma	1
+阿嬤	a ma	1
 鲍率	bao lv	1
 避障	bi zhang	1
-打咩	da mie	1
+打咩	da mie	/
 代理器	dai li qi	1
 地吸引力	di xi yin li	1
 关卡	guan ka	1
@@ -66,6 +66,9 @@ sort: by_weight
 混淆	hun yao	1
 支言支语	zhi yan zhi yu	1
 說服	shui fu	1
+很溼	hen shi	1
+瞭解	liao jie	1
+鮪魚	wei yu	1
 
 # 专有名词 (沒有縮寫)
 布林	bo lin	1
@@ -82,7 +85,7 @@ R平方	rsquare	1
 决定系数	rsquare	1
 体素	ti su	1
 网域	wang yu	1
-位姿	wi zi	1
+位姿	wi zi
 
 
 # 专有名词 (有缩写)

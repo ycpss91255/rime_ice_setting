@@ -28,7 +28,8 @@ QRCode	qrcode
 std	std
 Xacro	xacro
 
-Inductor	induct服務r
+Inductor	inductor
+depicition	depicition
 
 # 專有名詞 (沒有縮寫)
 actuator	actuator
@@ -94,6 +95,8 @@ verilog	verilog
 Visio	ⓘVisio
 voxel	voxel
 Zalgo	ⓘZalgo
+
+costco	costco
 
 # 專有名詞 (有縮寫)
 Absolute Pose Error	absoluteposeerror
