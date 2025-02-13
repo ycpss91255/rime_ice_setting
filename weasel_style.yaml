@@ -3,7 +3,7 @@
 # 定制化文档 https://github.com/rime/weasel/wiki/Weasel-定製化
 
 # 在用户使用「输入法设定」调整设置时，小狼毫会格式化 weasel.custom.yaml，删除所有注释。
-# 目前建议的自定义方法：复制此本文件并修改，之后在 weasel.custom.yaml 用 `__include` 引入。示例 weasel.custom.yaml 如下：
+# 目前建议的自定义方法：复制此本文件并修改，之后在 weasel.custom.yaml 用 `__include` 引入。/例 weasel.custom.yaml 如下：
 # patch:
 #   "preset_color_schemes/+":
 #     __include: "weasel_style_copy:/preset_color_schemes"
@@ -132,12 +132,12 @@ style_inline_horizontal:
   font_point: 14
   comment_font_point: 13
   inline_preedit: true
-  mark_text: "|" 
+  mark_text: "|"
   ascii_tip_follow_cursor: true
   enhanced_position: true
   layout:
     align_type: center
-    max_width: 1080 
+    max_width: 1080
     max_height: 600
     type: horizontal
     border_width: 2
